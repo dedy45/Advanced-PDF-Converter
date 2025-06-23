@@ -1,0 +1,19 @@
+# Advanced PDF Converter - Dependencies
+# ====================================
+
+# Core PDF processing
+PyPDF2>=3.0.0
+pdf2image>=1.16.0
+Pillow>=9.0.0
+
+# Document conversion
+pypandoc>=1.7.0
+
+# User interface  
+rich>=13.0.0
+
+# Optional: Enhanced PDF processing
+PyMuPDF>=1.20.0
+
+# Optional: OCR capabilities
+pytesseract>=0.3.10
